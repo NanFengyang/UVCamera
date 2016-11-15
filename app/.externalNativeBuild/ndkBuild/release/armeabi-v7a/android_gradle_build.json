@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Android.mk",
+    "E:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\androidsdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDEBUG\u003d0 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dE:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\release\\obj NDK_LIBS_OUT\u003dE:\\me\\usb\\uvcAS\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "ImageProc-release-armeabi-v7a": {
+      "buildCommand": "D:\\androidsdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDEBUG\u003d0 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dE:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\release\\obj NDK_LIBS_OUT\u003dE:\\me\\usb\\uvcAS\\app\\build\\intermediates\\ndkBuild\\release\\lib E:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\release\\obj/local/armeabi-v7a/libImageProc.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "ImageProc",
+      "files": [
+        {
+          "src": "E:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\ImageProc.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-march\u003darmv7-a\" \"-mfpu\u003dvfpv3-d16\" \"-mfloat-abi\u003dsoftfp\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IE:/me/usb/uvcAS/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-isystem\" \"D:/androidsdk/ndk-bundle/build//../platforms/android-9/arch-arm/usr/include\""
+        }
+      ],
+      "output": "E:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libImageProc.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cCompilerExecutable": "D:\\androidsdk\\ndk-bundle\\build\\..\\toolchains\\arm-linux-androideabi-4.9\\prebuilt\\windows-x86_64\\bin\\arm-linux-androideabi-gcc"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

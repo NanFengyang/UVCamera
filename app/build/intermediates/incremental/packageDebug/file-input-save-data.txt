@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Fri Nov 11 15:22:58 CST 2016
+2.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libImageProc.so
+5.set=NATIVE_RESOURCE
+3.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+6.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\icon.png
+4.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\mips\\libImageProc.so
+7.set=NATIVE_RESOURCE
+count=11
+0.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+8.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.set=DEX
+6.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=NATIVE_RESOURCE
+9.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libImageProc.so
+10.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+2.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libImageProc.so
+3.set=NATIVE_RESOURCE
+1.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\folders\\2000\\1f\\main
+4.file=E\:\\me\\usb\\uvcAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

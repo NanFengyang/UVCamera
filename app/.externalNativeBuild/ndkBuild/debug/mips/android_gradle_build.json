@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Android.mk",
+    "E:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\androidsdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dmips NDK_ALL_ABIS\u003dmips NDEBUG\u003d1 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dE:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj NDK_LIBS_OUT\u003dE:\\me\\usb\\uvcAS\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "ImageProc-debug-mips": {
+      "buildCommand": "D:\\androidsdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\Application.mk APP_ABI\u003dmips NDK_ALL_ABIS\u003dmips NDEBUG\u003d1 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dE:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj NDK_LIBS_OUT\u003dE:\\me\\usb\\uvcAS\\app\\build\\intermediates\\ndkBuild\\debug\\lib E:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj/local/mips/libImageProc.so",
+      "toolchain": "toolchain-mips",
+      "abi": "mips",
+      "artifactName": "ImageProc",
+      "files": [
+        {
+          "src": "E:\\me\\usb\\uvcAS\\app\\src\\main\\jni\\ImageProc.c",
+          "flags": "\"-fpic\" \"-finline-functions\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fmessage-length\u003d0\" \"-fno-inline-functions-called-once\" \"-fgcse-after-reload\" \"-frerun-cse-after-loop\" \"-frename-registers\" \"-no-canonical-prefixes\" \"-g\" \"-O2\" \"-DNDEBUG\" \"-IE:/me/usb/uvcAS/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-isystem\" \"D:/androidsdk/ndk-bundle/build//../platforms/android-9/arch-mips/usr/include\""
+        }
+      ],
+      "output": "E:\\me\\usb\\uvcAS\\app\\.externalNativeBuild\\ndkBuild\\debug\\obj\\local\\mips\\libImageProc.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-mips": {
+      "cCompilerExecutable": "D:\\androidsdk\\ndk-bundle\\build\\..\\toolchains\\mipsel-linux-android-4.9\\prebuilt\\windows-x86_64\\bin\\mipsel-linux-android-gcc"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
